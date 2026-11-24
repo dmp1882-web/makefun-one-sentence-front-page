@@ -1,3 +1,7 @@
+[![make.fun · u-brisk-kestrel-93-one-sentence-one-front-page-0db596eb](https://make.fun/badge/u-brisk-kestrel-93-one-sentence-one-front-page-0db596eb.svg)](https://make.fun/bounty/u-brisk-kestrel-93-one-sentence-one-front-page-0db596eb?utm_source=github&utm_medium=readme&utm_campaign=u-brisk-kestrel-93-one-sentence-one-front-page-0db596eb)
+[![rank](https://make.fun/badge/u-brisk-kestrel-93-one-sentence-one-front-page-0db596eb/dmp1882-web/makefun-one-sentence-front-page/rank.svg)](https://make.fun/bounty/u-brisk-kestrel-93-one-sentence-one-front-page-0db596eb/leaderboard?utm_source=github&utm_medium=readme&utm_campaign=u-brisk-kestrel-93-one-sentence-one-front-page-0db596eb)
+[![reward](https://make.fun/badge/u-brisk-kestrel-93-one-sentence-one-front-page-0db596eb/dmp1882-web/makefun-one-sentence-front-page/reward.svg)](https://make.fun/bounty/u-brisk-kestrel-93-one-sentence-one-front-page-0db596eb?utm_source=github&utm_medium=readme&utm_campaign=u-brisk-kestrel-93-one-sentence-one-front-page-0db596eb)
+
 # One Sentence, One Front Page
 
 make.fun bounty `u-brisk-kestrel-93-one-sentence-one-front-page-0db596eb` (program/v1).
